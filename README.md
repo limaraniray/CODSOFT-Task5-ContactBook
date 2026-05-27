@@ -27,6 +27,7 @@
     - [🔍 Search a Contact](#-search-a-contact)
     - [🗑️ Delete a Contact](#️-delete-a-contact)
   - [📸 Screenshots](#-screenshots)
+  - [](#)
   - [👤 Author](#-author)
   - [📄 License](#-license)
   - [🏷️ Tags](#️-tags)
@@ -158,9 +159,7 @@ Are you sure you want to delete 'John Doe'? (y/n): y
 
 ## 📸 Screenshots
 
-> Run the script and interact with the menu in your terminal.
-
----
+## ![Contact Book terminal UI](Screenshot.png)
 
 ## 👤 Author
 

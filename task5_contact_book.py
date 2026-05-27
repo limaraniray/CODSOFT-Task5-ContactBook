@@ -51,9 +51,6 @@ def view_contacts():
     print(f"\n--- All Contacts ({len(contacts)}) ---")
     print(f"{'#':<4} {'Name':<20} {'Phone':<15}")
     print("-" * 40)
-    for i, (phone, c) in enumerate(contacts.values(), 1):
-        # contacts.values() returns dicts
-        pass
     for i, c in enumerate(contacts.values(), 1):
         print(f"{i:<4} {c['name']:<20} {c['phone']:<15}")
 
